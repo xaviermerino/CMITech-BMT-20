@@ -1,4 +1,5 @@
 FROM ubuntu:18.04
+LABEL org.opencontainers.image.source="https://github.com/xaviermerino/CMITech-BMT-20"
 
 ENV DEBIAN_FRONTEND=noninteractive
 
