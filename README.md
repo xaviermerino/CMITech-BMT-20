@@ -14,7 +14,7 @@ This repository contains a Docker setup for running the CMITech BMT-20 SDK, incl
 
 From the directory containing the `Dockerfile`, the `BMT20` SDK folder, and `entrypoint.sh`, run:
 
-> Note: The directory named BMT20 is the SDK folder originally named Ubuntu18.04_Desktop_x64_EMX&BMT_SDK_V1.4.0. Renamed for simplicity. It should be included in the root of the project.
+> Note: The directory named `BMT20` is the SDK folder originally named `Ubuntu18.04_Desktop_x64_EMX&BMT_SDK_V1.4.0`. Renamed for simplicity. It should be included in the root of the project when building.
 
 
 ```bash
